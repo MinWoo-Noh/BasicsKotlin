@@ -1,3 +1,5 @@
+package chap1
+
 fun main() {
     val x = 4 // (10) == 0100 (2)
     val y = 0b000_1010 //(2) == 5(10)

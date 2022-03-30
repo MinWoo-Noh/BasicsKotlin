@@ -1,3 +1,5 @@
+package chap1
+
 fun main() {
 
 //    val name: String = "minu"
