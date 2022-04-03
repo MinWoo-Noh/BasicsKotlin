@@ -15,7 +15,7 @@ fun funcFun(a: Int, b: Int) = sum(a, b)
 fun main() {
 
     val result = sum(10, 10)
-    val result2 = mul(sum(10, 5), 10)
+    val result2 = mul(sum(10, 5), 10) // 함수를 인자형태로 사용 ( 고차함수)
     val result3 = funcFun(2, 3)
 
     println("result: $result, result2: $result2, result3: $result3")
