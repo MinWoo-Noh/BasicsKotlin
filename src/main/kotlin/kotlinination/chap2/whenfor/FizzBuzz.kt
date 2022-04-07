@@ -1,4 +1,4 @@
-package kotlinination.chap2
+package kotlinination.chap2.whenfor
 
 // 피즈버즈 게임 3으로 나누어 떨어지면 "피즈"
 //  5로 나누어 떨어지면 "버즈" 둘다 나눠지면 "피즈버즈"

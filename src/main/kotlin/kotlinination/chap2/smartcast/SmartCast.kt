@@ -1,4 +1,4 @@
-package kotlinination.chap2
+package kotlinination.chap2.smartcast
 
 import java.lang.IllegalArgumentException
 
