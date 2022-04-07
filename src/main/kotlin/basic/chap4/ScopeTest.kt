@@ -1,4 +1,4 @@
-package chap4
+package basic.chap4
 
 var global = 10
 

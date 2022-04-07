@@ -1,4 +1,4 @@
-package chap3
+package basic.chap3
 
 fun highFunex(a: Int, b: Int, sum: (Int, Int) -> Int): Int {
     return sum(a, b)

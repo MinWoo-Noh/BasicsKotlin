@@ -1,4 +1,4 @@
-package chap4
+package basic.chap4
 
 inline fun shortFunc(a: Int, crossinline out: (Int) -> Unit) {
 // inline fun shortFunc(a: Int, noinline out: (Int) -> Unit) { // 경우에따라 inline을 하고싶지 않을 경우 noinline 키워드 사용

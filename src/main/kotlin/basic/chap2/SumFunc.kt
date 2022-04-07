@@ -1,4 +1,4 @@
-package chap2
+package basic.chap2
 
 fun sum(a: Int, b: Int = 5) = a + b // Top-level 함수
 

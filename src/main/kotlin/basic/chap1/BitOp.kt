@@ -1,4 +1,4 @@
-package chap1
+package basic.chap1
 
 fun main() {
     val x = 4 // (10) == 0100 (2)

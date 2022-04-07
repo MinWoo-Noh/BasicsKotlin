@@ -1,4 +1,4 @@
-package chap5
+package basic.chap5
 
 fun main() {
 

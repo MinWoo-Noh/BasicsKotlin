@@ -1,4 +1,4 @@
-package chap4
+package basic.chap4
 
 fun main() {
     val number = 4

@@ -1,4 +1,4 @@
-package chap3
+package basic.chap3
 
 // 함수의 표현
 

@@ -1,4 +1,4 @@
-package chap2
+package basic.chap2
 
 /*
 목표: 하나 이상의 실수를 받아서 모든 실수의 합의 평균을 구하고 출력 하려고 합니다.
